@@ -1,0 +1,2 @@
+python "unswizzle.py" %*
+pause
